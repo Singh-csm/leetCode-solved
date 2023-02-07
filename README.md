@@ -3,3 +3,5 @@
 ## ``` 📌141. Linked List Cycle [ feb 06/2023 ] ```
 
 ## ``` 📌1470. Shuffle the Array [ feb 06/2023 ] ```
+
+## ``` 📌14. Longest Common Prefix [ feb 07/2023 ] ```
