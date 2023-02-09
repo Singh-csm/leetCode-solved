@@ -11,3 +11,5 @@
 ## ``` 📌 724. Find Pivot Index [ feb 08/2023 ] ```
 
 ## ``` 📌 6. Zigzag Conversion [ feb 09/2023 ] ```
+
+## ``` 📌 46. Permutations [ feb 09/2023 ] ```
