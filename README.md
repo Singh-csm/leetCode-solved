@@ -13,3 +13,5 @@
 ## ``` 📌 6. Zigzag Conversion [ feb 09/2023 ] ```
 
 ## ``` 📌 46. Permutations [ feb 09/2023 ] ```
+
+## ``` 📌 53. Maximum Subarray [ feb 09/2023 ] ```
