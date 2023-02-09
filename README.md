@@ -9,3 +9,5 @@
 ## ``` 📌 1480. Running Sum of 1d Array [ feb 08/2023 ] ```
 
 ## ``` 📌 724. Find Pivot Index [ feb 08/2023 ] ```
+
+## ``` 📌 6. Zigzag Conversion [ feb 09/2023 ] ```
