@@ -1,4 +1,9 @@
 # leetCode-solved![image](https://user-images.githubusercontent.com/118621709/216879167-a350210a-bc7b-4ef7-bb76-ab9d82bf3e7c.png)
+Owner Admin Playground Open issues
+
+Analytics Views Telegram
+
+All Contributors
 
 ## ``` 📌 141. Linked List Cycle [ feb 06/2023 ] ```
 
