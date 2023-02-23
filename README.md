@@ -30,7 +30,7 @@
 
 ## ``` 📌 66. Plus One [ feb 17/2023 ] ```
 
-## ``` 📌 1528. Shuffle String [ feb 17/2023 ] ```
+## ``` 📌 1528. Shuffle String [ feb 23/2023 ] ```
 
 
 
